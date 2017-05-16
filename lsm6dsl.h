@@ -36,4 +36,5 @@ void lsm_read(uint8_t addr, uint8_t *data, uint8_t len);
 
 void lsm_get_data(lsm_imu_data_t *data);
 
+
 #endif /* LSM6DS3H_H */
